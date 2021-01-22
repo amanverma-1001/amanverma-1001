@@ -9,7 +9,7 @@
 
 ## Languages and skills:
 <img alt="C" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg" />|<img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" />|<img alt="JAVA" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/java.svg" />|<img alt="Javascript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" />|<img alt="PHP" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/php.svg" />|<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" />|<img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg" />
-|--|--|--|--|--|--|
+|--|--|--|--|--|--|--|
 
 
 
